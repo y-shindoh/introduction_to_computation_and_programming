@@ -26,4 +26,3 @@ if c != '-':
     print c + ' is the largest odd number.'
 else:
     print 'Not found odd numbers.'
-
