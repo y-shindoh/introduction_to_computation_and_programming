@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-# 「Introduction to Computation and Programming Using Python」の§3.1の練習問題
+# 「Introduction to Computation and Programming Using Python」の§3.2の例題
 
 x = raw_input('Enter an integer: ')
 
